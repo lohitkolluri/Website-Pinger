@@ -2,6 +2,10 @@
 
 <p id="description">Script to ping a website constantly using the website address and interval as parameters</p>
 
+<h2>🚀 Demo</h2>
+
+[lohitkolluri.github.io/Website-Pinger/ping.html](lohitkolluri.github.io/Website-Pinger/ping.html)
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Go to website using this url:</p>
